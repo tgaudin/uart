@@ -23,7 +23,7 @@
 #include <stdint.h>
 #include <avr/pgmspace.h>
 
-#include "../lib/cbuffer/cbuffer.h"
+#include "lib/cbuffer/cbuffer.h"
 
 
 class uart {

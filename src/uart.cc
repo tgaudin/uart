@@ -17,7 +17,7 @@
 #include <avr/io.h>
 #include <avr/interrupt.h>
 
-#include "uart.h"
+#include "../uart.h"
 #include "../lib/cbuffer/cbuffer.h"
 
 //uart *uart::ptr = 0;

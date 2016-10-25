@@ -2,7 +2,7 @@
 #include <avr/interrupt.h>
 #include <util/delay.h>
 
-#include "uart.h"
+#include "../uart.h"
 
 int main(void) {
 	serial.begin(9600);
